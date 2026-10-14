@@ -1,6 +1,6 @@
 # Evaluation goal
 
-Evaluate the importance of timely technology news for readers interested in software engineering, artificial intelligence, machine learning, computer systems, hardware, open source, and the technology industry.
+Evaluate the importance of timely technology news for a student reader whose main interests are: AI tools and applications (LLM products, AI coding tools such as Codex and Claude Code, agents, the MCP ecosystem), major model releases and capability progress, open-source projects that a non-specialist can actually pick up and use, and practical AI access deals (free tiers, student offers, notable price changes).
 
 # Scoring rubric
 
@@ -12,6 +12,10 @@ Evaluate the importance of timely technology news for readers interested in soft
 
 # Evaluation guidance
 
-Consider technical depth, novelty, likely impact, source quality, relevance to software engineering and AI systems, and concrete supporting details. Treat substantive community debate as additional evidence of value, but do not equate popularity with technical importance. Do not reward exaggerated headlines.
+Consider technical depth, novelty, likely impact, source quality, and concrete supporting details. Treat substantive community debate as additional evidence of value, but do not equate popularity with technical importance. Do not reward exaggerated headlines.
+
+Reader-specific adjustments:
+- Boost: hands-on AI tools and agent frameworks, notable new open-source projects with real utility, model launches, AI product pricing/free-tier/student-offer changes.
+- Downweight: deep infrastructure internals (inference kernels, serving stacks) unless they change what end users can do; pure academic minutiae with no practical implication; funding gossip and marketing without substance.
 
 Use three to five specific topic tags.
